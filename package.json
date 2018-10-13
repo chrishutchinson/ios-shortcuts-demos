@@ -1,0 +1,13 @@
+{
+  "name": "ios-shortcuts-demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  },
+  "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "html2canvas": "^1.0.0-alpha.12"
+  }
+}

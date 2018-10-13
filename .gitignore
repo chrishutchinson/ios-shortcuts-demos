@@ -1,0 +1,11 @@
+# Parcel
+.cache
+
+# Node
+node_modules
+
+# macOS
+.DS_Store
+
+# App-specific
+dist
