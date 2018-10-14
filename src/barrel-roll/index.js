@@ -10,3 +10,5 @@ barrelRollStyleTag.innerText = `
   }
 `;
 document.head.appendChild(barrelRollStyleTag);
+
+completion();
