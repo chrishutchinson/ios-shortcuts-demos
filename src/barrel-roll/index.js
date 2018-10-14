@@ -1,4 +1,5 @@
 const barrelRollStyleTag = document.createElement("style");
+
 barrelRollStyleTag.innerText = `
   @keyframes roll {
     from { -webkit-transform: rotate(0deg) }
@@ -9,6 +10,7 @@ barrelRollStyleTag.innerText = `
     animation: roll 4s 1;
   }
 `;
+
 document.head.appendChild(barrelRollStyleTag);
 
 completion();
