@@ -4,7 +4,7 @@
 
 ## About
 
-I've written about this on Medium, [here](#) (link coming soon!).
+I've written about this on Medium, [here](https://medium.com/@chrishutchinson/hacking-around-with-javascript-and-shortcuts-in-ios-12-95f8d7190777).
 
 ## Demos
 
